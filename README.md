@@ -26,7 +26,9 @@ k6 run <nome do script>.js
 Você pode personalizar os testes de carga de acordo com as necessidades do projeto.
 
 Para modificar as validações, vá para o diretório services e abra o arquivo <nome do script>.js. Faça as alterações necessárias nas validações.
+
 Os critérios de limite estão no diretório utils. Abra o arquivo <options.js> e faça ajustes, como a duração dos testes e a quantidade de requisições enviadas.
+
 Os testes de carga estão no diretório tests. Abra o arquivo <nome do arquivo>.js e faça as alterações necessárias, como adicionar ou remover testes.
 
 ## Observando Resultados
