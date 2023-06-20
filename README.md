@@ -13,7 +13,6 @@ Antes de executar os testes de carga, certifique-se de ter as seguintes dependê
 Siga as etapas abaixo para executar os testes de carga nas APIs em api.restful-api.dev:
 
 1. Clone este repositório:
-
 git clone <URL do Repositório>
 
 2. Navegue até o diretório clonado:
